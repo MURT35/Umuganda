@@ -6,7 +6,7 @@ A web-based community service request platform built for local sector offices an
 https://umugandasmart.xo.je/
 
 ## GitHub Repository
-https://github.com/[your-repo-link-here]/adv_web_ass2_group_8_II_C
+https://github.com/MURT35/Umuganda
 
 ## Problem Statement
 In many Rwandan communities, local service issues are reported informally through phone calls or WhatsApp groups. This creates delays, forgotten requests, poor tracking, and weak accountability. Umuganda Smart solves this with a structured, trackable web platform.
