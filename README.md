@@ -3,7 +3,7 @@
 A web-based community service request platform built for local sector offices and campus communities to collect, categorize, assign, and track service requests.
 
 ## Live Link
-https://umugandasmart.xo.je/
+https://umugandasmart.xo.je/index.html?i=1
 
 ## GitHub Repository
 https://github.com/MURT35/Umuganda
